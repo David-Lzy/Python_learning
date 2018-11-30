@@ -1,0 +1,16 @@
+# Fdb version 3
+["pdflatex"] 1542697142 "c:/Users/li199/Desktop/Python_test/latex_learning/test.tex" "test.pdf" "test" 1542697143
+  "c:/Users/li199/Desktop/Python_test/latex_learning/test.tex" 1542696063 93 a62ee62acb82f9515ef398a3b7d490dc ""
+  "d:/Professional_Programes/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1542624058 35752 024fb6c41858982481f6968b5fc26508 ""
+  "d:/Professional_Programes/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1542629431 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "d:/Professional_Programes/texlive/2018/texmf-dist/tex/latex/base/size10.clo" 1542629432 8294 b0f177401f895563eb19304d2389582d ""
+  "d:/Professional_Programes/texlive/2018/texmf-dist/web2c/texmf.cnf" 1542629315 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "d:/Professional_Programes/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1542635349 2999951 61d376569dab4d44f2737a9060fa1d99 ""
+  "d:/Professional_Programes/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1542635526 4229642 ac10471c19ef36f573f00acc97756c3d ""
+  "d:/Professional_Programes/texlive/2018/texmf.cnf" 1542635303 795 327d8ef638f975056932eb4730abdf02 ""
+  "test.aux" 1542697143 8 a94a2480d3289e625eea47cd1b285758 ""
+  "test.tex" 1542696063 93 a62ee62acb82f9515ef398a3b7d490dc ""
+  (generated)
+  "test.aux"
+  "test.pdf"
+  "test.log"

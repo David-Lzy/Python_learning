@@ -1,0 +1,126 @@
+==============================================================================================================================================================================================================this MD simulation start at2018-07-18 22:30:03All paramters list hereKappa2Gamma300Beta0.1Beta0.5Beta1.0N16384Compare0Compare1ALl Windows path to run list here**********************************************************************************Kappa2/Gamma300/Beta0.1/N16384/Compare0/Kappa2/Gamma300/Beta0.5/N16384/Compare0/Kappa2/Gamma300/Beta1.0/N16384/Compare0/Kappa2/Gamma300/Beta0.1/N16384/Compare1/Kappa2/Gamma300/Beta0.5/N16384/Compare1/Kappa2/Gamma300/Beta1.0/N16384/Compare1/Kappa2/Gamma300/Beta0.1/N16384/Compare0\Kappa2/Gamma300/Beta0.5/N16384/Compare0\Kappa2/Gamma300/Beta1.0/N16384/Compare0\Kappa2/Gamma300/Beta0.1/N16384/Compare1\Kappa2/Gamma300/Beta0.5/N16384/Compare1\Kappa2/Gamma300/Beta1.0/N16384/Compare1\**********************************************************************************$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$sorry, it seems that something get wrong, and the wrong file is:c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare0/here is the deatials:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$sorry, it seems that something get wrong, and the wrong file is:c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare0/here is the deatials:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$sorry, it seems that something get wrong, and the wrong file is:c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare0/here is the deatials:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$sorry, it seems that something get wrong, and the wrong file is:c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare1/here is the deatials:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$sorry, it seems that something get wrong, and the wrong file is:c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare1/here is the deatials:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$sorry, it seems that something get wrong, and the wrong file is:c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare1/here is the deatials:=====================================================================================================================================================================================================================================================================================================================
+=======================================================================================================
+this MD simulation start at 2018-07-18 22:31:33 
+All paramters list here
+=======================================================================================================
+=======================================================================================================
+this MD simulation start at 2018-07-18 22:32:28 
+All paramters list here
+=======================================================================================================
+=======================================================================================================
+this MD simulation start at 2018-07-18 22:33:07 
+All paramters list here
+['Kappa2']
+['Gamma300']
+['Beta0.1' 'Beta0.5' 'Beta1.0']
+['N16384']
+['Compare0' 'Compare1']
+ALl Windows path to run list here
+**********************************************************************************Kappa2/Gamma300/Beta0.1/N16384/Compare0/
+Kappa2/Gamma300/Beta0.5/N16384/Compare0/
+Kappa2/Gamma300/Beta1.0/N16384/Compare0/
+Kappa2/Gamma300/Beta0.1/N16384/Compare1/
+Kappa2/Gamma300/Beta0.5/N16384/Compare1/
+Kappa2/Gamma300/Beta1.0/N16384/Compare1/
+Kappa2/Gamma300/Beta0.1/N16384/Compare0\
+Kappa2/Gamma300/Beta0.5/N16384/Compare0\
+Kappa2/Gamma300/Beta1.0/N16384/Compare0\
+Kappa2/Gamma300/Beta0.1/N16384/Compare1\
+Kappa2/Gamma300/Beta0.5/N16384/Compare1\
+Kappa2/Gamma300/Beta1.0/N16384/Compare1\
+**********************************************************************************$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare1/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare1/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare1/here is the deatials:
+=======================================================================================================
+=======================================================================================================
+=======================================================================================================
+=======================================================================================================
+this MD simulation start at 2018-07-18 22:35:27 
+All paramters list here
+['Kappa2']
+['Gamma300']
+['Beta0.1' 'Beta0.5' 'Beta1.0']
+['N16384']
+['Compare0' 'Compare1']
+ALl Windows path to run list here
+**********************************************************************************
+Kappa2/Gamma300/Beta0.1/N16384/Compare0\
+Kappa2/Gamma300/Beta0.5/N16384/Compare0\
+Kappa2/Gamma300/Beta1.0/N16384/Compare0\
+Kappa2/Gamma300/Beta0.1/N16384/Compare1\
+Kappa2/Gamma300/Beta0.5/N16384/Compare1\
+Kappa2/Gamma300/Beta1.0/N16384/Compare1\
+**********************************************************************************
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare1/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare1/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare1/here is the deatials:
+=======================================================================================================
+=======================================================================================================
+=======================================================================================================
+=======================================================================================================
+this MD simulation start at 2018-07-18 22:36:38 
+All paramters list here
+['Kappa2']
+['Gamma300']
+['Beta0.1' 'Beta0.5' 'Beta1.0']
+['N16384']
+['Compare0' 'Compare1']
+ALl Windows path to run list here
+**********************************************************************************
+Kappa2\Gamma300\Beta0.1\N16384\Compare0\
+Kappa2\Gamma300\Beta0.5\N16384\Compare0\
+Kappa2\Gamma300\Beta1.0\N16384\Compare0\
+Kappa2\Gamma300\Beta0.1\N16384\Compare1\
+Kappa2\Gamma300\Beta0.5\N16384\Compare1\
+Kappa2\Gamma300\Beta1.0\N16384\Compare1\
+**********************************************************************************
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare0/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.1/N16384/Compare1/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta0.5/N16384/Compare1/here is the deatials:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+sorry, it seems that something get wrong, and the wrong file is:
+c:\Users\li199\Desktop\Python_test/Data/without_analysis_test/Kappa2/Gamma300/Beta1.0/N16384/Compare1/here is the deatials:
+=======================================================================================================
+=======================================================================================================

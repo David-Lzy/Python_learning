@@ -1,0 +1,98 @@
+#	2D plasma langevin MD 
+#	made by David Li 2018-3-6
+#	Fork from Linwei
+#	version     1.6
+#	Last edited 2018-7-16
+#   No Chinese , pathon Bash ready
+
+
+variable        Gamma
+variable        Beta
+variable        Kappa
+variable        random1 
+variable        random2 
+variable        random3 
+
+variable        file_number     equal       5
+variable        time_step       equal       0.008 
+variable        time_interval   equal       0.08/${time_step}
+variable        relax_time      equal       800/${time_step}
+variable        run_time        equal       8000/${time_step}/${file_number}
+variable        Temperature     equal       1/${Gamma}
+
+echo            screen             
+units           lj                  
+dimension       2                 
+boundary        p p p              
+
+atom_style      atomic                      
+lattice         hex     0.31831             
+region          box     block
+                                                                                        
+create_box      1       box                 
+create_atoms    1       box                 
+mass            1       1.0                
+
+pair_style      yukawa          ${Kappa}    5                                                                  
+pair_coeff      *               *           1.0         
+neighbor        0.3             bin                     
+neigh_modify    every 1 delay 10 check      yes          
+
+
+velocity        all     create      ${Temperature}      ${random1}   dist gaussian                                                         
+variable        fvx     atom       -${Beta}*1.4142*vy
+variable        fvy     atom        ${Beta}*1.4142*vx	                                                       
+
+fix     11      all     nve                             
+fix     12      all     langevin    ${Temperature}      ${Temperature}      26.2     ${random2}                                                        
+fix     13      all     addforce    v_fvx       v_fvy       0.0                                                               
+fix     14      all     enforce2d                       
+   
+    compute     K       all             ke/atom                     
+    compute     P       all             pe/atom                     
+    compute 	C	    all		        stress/atom NULL virial     
+    compute     J       all             heat/flux   K P C           
+
+run     ${relax_time}                                   
+unfix   11
+unfix   12
+unfix   13
+unfix   14
+
+fix     21      all     nve                                         
+fix     22      all     langevin    ${Temperature}          ${Temperature}       26.2   ${random3}                                                                    
+fix     23      all     addforce    v_fvx       v_fvy       0.0                                                                       
+fix     24      all     enforce2d                                   
+   
+    timestep            ${time_step}                   
+    thermo              ${time_interval}                
+    thermo_style        custom   step c_J[1]            
+   
+    dump    1   all     custom      ${time_interval}    2dp_EACF_1.lammpstrj  vx c_K[*] c_P[*] 
+    dump_modify         1           sort                id         
+    run     ${run_time}                                                
+    undump  1   
+    
+    dump    2   all     custom      ${time_interval}    2dp_EACF_2.lammpstrj  vx c_K[*] c_P[*] 
+    dump_modify         2           sort                id         
+    run     ${run_time}                                                
+    undump  2   
+  
+    dump    3   all     custom      ${time_interval}    2dp_EACF_3.lammpstrj  vx c_K[*] c_P[*] 
+    dump_modify         3           sort                id         
+    run     ${run_time}                                                
+    undump  3   
+
+    dump    4   all     custom      ${time_interval}    2dp_EACF_4.lammpstrj  vx c_K[*] c_P[*] 
+    dump_modify         4           sort                id         
+    run     ${run_time}                                                
+    undump  4   
+
+    dump    5   all     custom      ${time_interval}    2dp_EACF_5.lammpstrj  vx c_K[*] c_P[*] 
+    dump_modify         5           sort                id         
+    run     ${run_time}                                                
+    undump  5   
+    
+
+
+
